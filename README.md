@@ -328,14 +328,14 @@ Menu::render('navbar', \myGedung\Menus\Presenters\Bootstrap\NavPillsPresenter::c
 
 ### **The List of Available Menu Presenter Class**
 
-Style name	Presenter class
+Style name |	Presenter class
 ------ |	------
-navbar	myGedung\Menus\Presenters\Bootstrap\NavbarPresenter
-navbar-right	myGedung\Menus\Presenters\Bootstrap\NavbarRightPresenter
-nav-pills	myGedung\Menus\Presenters\Bootstrap\NavPillsPresenter
-nav-tab	myGedung\Menus\Presenters\Bootstrap\NavTabPresenter
-sidebar	myGedung\Menus\Presenters\Bootstrap\SidebarMenuPresenter
-navmenu	myGedung\Menus\Presenters\Bootstrap\NavMenuPresenter
+navbar |	myGedung\Menus\Presenters\Bootstrap\NavbarPresenter
+navbar-right |	myGedung\Menus\Presenters\Bootstrap\NavbarRightPresenter
+nav-pills |	myGedung\Menus\Presenters\Bootstrap\NavPillsPresenter
+nav-tab |	myGedung\Menus\Presenters\Bootstrap\NavTabPresenter
+sidebar |	myGedung\Menus\Presenters\Bootstrap\SidebarMenuPresenter
+navmenu |	myGedung\Menus\Presenters\Bootstrap\NavMenuPresenter
 
 ### **Make A custom Presenter**
 
@@ -449,17 +449,17 @@ Menu::create('navbar', function($menu) {
 
 ### **The List of Available View Presenter**
 
-View name	Menu style
+View name |	Menu style
 -------- |	--------
-menus::default 	Bootstrap Navbar (default)
-menus::navbar-left 	Bootstrap Navbar Left
-menus::navbar-right	Bootstrap Navbar Right
-menus::nav-tabs	Bootstrap Nav Tabs
-menus::nav-tabs-justified	Bootstrap Nav Tabs Justified
-menus::nav-pills	Bootstrap Nav Pills
-menus::nav-pills-stacked	Bootstrap Nav Pills Stacked
-menus::nav-pills-justified	Bootstrap Nav Pills Justified
-menus::menu	Plain Menu
+menus::default | 	Bootstrap Navbar (default)
+menus::navbar-left | 	Bootstrap Navbar Left
+menus::navbar-right |	Bootstrap Navbar Right
+menus::nav-tabs |	Bootstrap Nav Tabs
+menus::nav-tabs-justified |	Bootstrap Nav Tabs Justified
+menus::nav-pills |	Bootstrap Nav Pills
+menus::nav-pills-stacked |	Bootstrap Nav Pills Stacked
+menus::nav-pills-justified |	Bootstrap Nav Pills Justified
+menus::menu |	Plain Menu
 
 # **The menu instance**
 
