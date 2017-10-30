@@ -6,6 +6,8 @@ This package is a re-published, re-organised and maintained version of ```pingpo
 
 With one big added bonus that the original package didn't have: **tests**.
 
+[![Build Status](https://travis-ci.org/myGedung/Menus.svg?branch=master)](https://travis-ci.org/mygedung/menus)
+
 ## **Quick Example**
 
 ``` bash
